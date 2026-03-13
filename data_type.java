@@ -4,6 +4,6 @@ public class data_type {
         double high = 1.68;
         double weight = 60;
         double BMI = weight / high /high;
-        System.out.println(BMI);//21.25,正常。小于18.5是消瘦！
+        System.out.println(BMI);//21.25,正常。小于18.5是消瘦！（减肥。。。
     }
 }
