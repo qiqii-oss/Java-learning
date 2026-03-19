@@ -3,7 +3,7 @@ public class variable {
         int attack1 =220;//攻击
         int defence1 = 85;//防御
         double hp1 =1012.5;//血量
-        double skill_bonus1 =1.2;//技能加成
+        double skill_bonus1 =1.2;//技能加成。
         
         int attack2 =210;
         int defence2 = 80;
